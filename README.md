@@ -1,36 +1,56 @@
-<h1 align="center">Hi, I'm Adit 👋</h1>
+<h1 align="center">Hi, I'm Adit</h1>
+
 <p align="center">
-  Building AI systems, robotics interfaces, and full-stack products.
+  I build AI systems, robotics interfaces, and full-stack products.
 </p>
 
-> Focus: **AI + RAG**, **Robotics**, and **Product Engineering**
+<p align="center">
+  <a href="https://github.com/GammaKing2000">GitHub</a>
+</p>
 
-## 🚀 What I'm working on (latest)
-- [**backup-backend**](https://github.com/GammaKing2000/backup-backend) — Next.js backend for a social publishing demo with approval workflows.
-- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — Local-first advanced vector RAG pipeline for large codebases.
-- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — Mission control dashboard with live rover telemetry.
+---
 
-## 🌟 Featured Projects
-- [**LegalRag**](https://github.com/GammaKing2000/LegalRag) — Dual AI workflow for legal-document summarization and a calendar assistant.
-- [**RL-Env (GROW-R)**](https://github.com/GammaKing2000/RL-Env) — Custom Gymnasium environment for autonomous plant-care exploration and control.
-- [**PerceptronController**](https://github.com/GammaKing2000/PerceptronController) — Robotics controller + hardware/software setup for real-world integration.
+### Current Focus
 
-## 🧰 Tech Stack
+- AI systems with retrieval, summarization, and code-aware context
+- Robotics dashboards, telemetry, control loops, and hardware integration
+- Product engineering with TypeScript, Python, React, and local-first tooling
+
+---
+
+### Selected Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Code-Papa](https://github.com/GammaKing2000/Code-Papa) | Vector RAG system for indexing large codebases and giving agents compressed, relevant context | Python, Jupyter |
+| [LegalRag](https://github.com/GammaKing2000/LegalRag) | Legal document analysis system with summarization and calendar-assistant workflows | Jupyter, TypeScript |
+| [lunar-command-center](https://github.com/GammaKing2000/lunar-command-center) | Mission-control dashboard for rover telemetry, mapping, and Jetson Nano robot data | TypeScript, Python |
+| [RL-Env](https://github.com/GammaKing2000/RL-Env) | Custom Gymnasium reinforcement learning environment for autonomous plant-care simulation | Python, Gymnasium |
+| [backup-backend](https://github.com/GammaKing2000/backup-backend) | Orbit backend demo with workflow persistence and publish approval behavior | TypeScript, Python |
+| [PerceptronController](https://github.com/GammaKing2000/PerceptronController) | Raspberry Pi controller setup with Xbox controller and LiDAR integration notes | Python |
+
+---
+
+### Tech I Use
+
 **Languages:** Python, TypeScript, Java, C/C++, Swift  
-**AI/ML:** RAG, vector retrieval, embeddings, reinforcement learning, computer vision  
+**AI/ML:** RAG, embeddings, vector retrieval, reinforcement learning, computer vision  
 **Frontend:** React, Vite, Tailwind CSS, shadcn/ui  
-**Backend & Infra:** Next.js, API workflows, SQLite, local/offline-first tooling
+**Backend & Tools:** Next.js, API workflows, SQLite, local/offline-first systems  
+**Robotics:** Raspberry Pi, Jetson Nano, LiDAR, telemetry, controller interfaces
 
-## 🎯 Current Direction
-- Shipping practical AI features that are usable in real apps.
-- Improving context quality and retrieval reliability in RAG systems.
-- Building real-time telemetry and control experiences for robotics projects.
+---
 
-## 📌 More Projects
-[OpenCV](https://github.com/GammaKing2000/OpenCV) •
-[Object-Detection](https://github.com/GammaKing2000/Object-Detection) •
-[Fantasy-Cricket-project](https://github.com/GammaKing2000/Fantasy-Cricket-project) •
-[Sentiment-Analysis-ML-Project](https://github.com/GammaKing2000/Sentiment-Analysis-ML-Project)
+### More Work
 
-## 📫 Connect
-- GitHub: [@GammaKing2000](https://github.com/GammaKing2000)
+[OpenCV](https://github.com/GammaKing2000/OpenCV) ·
+[Object-Detection](https://github.com/GammaKing2000/Object-Detection) ·
+[Sentiment-Analysis-ML-Project](https://github.com/GammaKing2000/Sentiment-Analysis-ML-Project) ·
+[DisasterAlert](https://github.com/GammaKing2000/DisasterAlert) ·
+[penguinApp](https://github.com/GammaKing2000/penguinApp)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GammaKing2000&layout=compact&theme=default" alt="Top languages" />
+</p>
