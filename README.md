@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adit 👋
 
-<!--
-**GammaKing2000/GammaKing2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software across **AI/RAG systems**, **robotics dashboards**, and **full-stack web apps**.
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- [**LegalRag**](https://github.com/GammaKing2000/LegalRag) — legal-document workflow with summarization, factual checks, and assistant capabilities.
+- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — hybrid codebase RAG pipeline focused on retrieval quality and context handling.
+- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — mission-control style telemetry dashboard for rover-like systems.
+- [**RL-Env**](https://github.com/GammaKing2000/RL-Env) — custom reinforcement-learning environment for autonomous plant-care behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Use
+- **Languages:** Python, TypeScript, Java, C/C++
+- **AI/ML:** RAG pipelines, embeddings/vector workflows, computer vision, reinforcement learning
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend/Tools:** API integrations, SQLite, ROS-style telemetry/control workflows
+
+## 📌 Other Repositories
+- [PerceptronController](https://github.com/GammaKing2000/PerceptronController)
+- [OpenCV](https://github.com/GammaKing2000/OpenCV)
+- [Object-Detection](https://github.com/GammaKing2000/Object-Detection)
+- [Fantasy-Cricket-project](https://github.com/GammaKing2000/Fantasy-Cricket-project)
+
+Thanks for stopping by!
