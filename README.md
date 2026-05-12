@@ -1,47 +1,71 @@
 <h1 align="center">Hi, I'm Adit</h1>
 
 <p align="center">
-  I build AI systems, robotics interfaces, and full-stack products.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;RAG+%2B+Robotics+%2B+Full-Stack;Building+practical+developer+and+robotics+tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/GammaKing2000">GitHub</a>
+  <a href="https://github.com/GammaKing2000">
+    <img src="https://komarev.com/ghpvc/?username=GammaKing2000&style=flat-square&color=blue" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
-### Current Focus
+### About Me
 
-- AI systems with retrieval, summarization, and code-aware context
-- Robotics dashboards, telemetry, control loops, and hardware integration
-- Product engineering with TypeScript, Python, React, and local-first tooling
+I'm Adit, a developer building AI systems, robotics interfaces, and full-stack products.
+
+My work is currently focused on:
+
+- Retrieval-augmented generation and code-aware AI agents
+- Robotics dashboards, telemetry, and control systems
+- Practical full-stack tools using Python, TypeScript, React, and Next.js
+- ML experiments across reinforcement learning, vision, and language systems
 
 ---
 
-### Selected Projects
+### Featured Projects
 
-| Project | What it does | Stack |
+| Project | Description | Stack |
 |---|---|---|
 | [Code-Papa](https://github.com/GammaKing2000/Code-Papa) | Vector RAG system for indexing large codebases and giving agents compressed, relevant context | Python, Jupyter |
 | [LegalRag](https://github.com/GammaKing2000/LegalRag) | Legal document analysis system with summarization and calendar-assistant workflows | Jupyter, TypeScript |
 | [lunar-command-center](https://github.com/GammaKing2000/lunar-command-center) | Mission-control dashboard for rover telemetry, mapping, and Jetson Nano robot data | TypeScript, Python |
 | [RL-Env](https://github.com/GammaKing2000/RL-Env) | Custom Gymnasium reinforcement learning environment for autonomous plant-care simulation | Python, Gymnasium |
 | [backup-backend](https://github.com/GammaKing2000/backup-backend) | Orbit backend demo with workflow persistence and publish approval behavior | TypeScript, Python |
-| [PerceptronController](https://github.com/GammaKing2000/PerceptronController) | Raspberry Pi controller setup with Xbox controller and LiDAR integration notes | Python |
+| [PerceptronController](https://github.com/GammaKing2000/PerceptronController) | Raspberry Pi controller setup with Xbox controller and LiDAR integration notes | Python, Hardware |
 
 ---
 
-### Tech I Use
+### Tech Stack
 
-**Languages:** Python, TypeScript, Java, C/C++, Swift  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
 **AI/ML:** RAG, embeddings, vector retrieval, reinforcement learning, computer vision  
 **Frontend:** React, Vite, Tailwind CSS, shadcn/ui  
-**Backend & Tools:** Next.js, API workflows, SQLite, local/offline-first systems  
+**Backend:** Next.js, API workflows, SQLite, local-first tooling  
 **Robotics:** Raspberry Pi, Jetson Nano, LiDAR, telemetry, controller interfaces
 
 ---
 
-### More Work
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GammaKing2000&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GammaKing2000&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+### More Projects
 
 [OpenCV](https://github.com/GammaKing2000/OpenCV) ·
 [Object-Detection](https://github.com/GammaKing2000/Object-Detection) ·
@@ -52,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GammaKing2000&layout=compact&theme=default" alt="Top languages" />
+  Building useful AI and robotics systems, one repo at a time.
 </p>
