@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Adit</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;RAG+%2B+Robotics+%2B+Full-Stack;Building+practical+developer+and+robotics+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;RAG+%2B+Machine-Learning+%2B+Full-Stack;Building+practical+developer+and+tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/GammaKing2000">
-    <img src="https://komarev.com/ghpvc/?username=GammaKing2000&style=flat-square&color=blue" alt="Profile views" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaKing2000&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
 </p>
+
 
 ---
 
