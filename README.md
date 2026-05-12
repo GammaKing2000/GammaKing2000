@@ -8,11 +8,11 @@
 ## 🚀 What I'm working on (latest)
 - [**backup-backend**](https://github.com/GammaKing2000/backup-backend) — Next.js backend for a social publishing demo with approval workflows.
 - [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — Local-first advanced vector RAG pipeline for large codebases.
-- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — mission control dashboard with live rover telemetry.
+- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — Mission control dashboard with live rover telemetry.
 
 ## 🌟 Featured Projects
 - [**LegalRag**](https://github.com/GammaKing2000/LegalRag)  
-  Dual AI workflow for legal-document summarization + calendar assistant.
+  Dual AI workflow for legal-document summarization and a calendar assistant.
 - [**RL-Env (GROW-R)**](https://github.com/GammaKing2000/RL-Env)  
   Custom Gymnasium environment for autonomous plant-care exploration and control.
 - [**PerceptronController**](https://github.com/GammaKing2000/PerceptronController)  
