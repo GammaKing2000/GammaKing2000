@@ -11,12 +11,9 @@
 - [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — Mission control dashboard with live rover telemetry.
 
 ## 🌟 Featured Projects
-- [**LegalRag**](https://github.com/GammaKing2000/LegalRag)  
-  Dual AI workflow for legal-document summarization and a calendar assistant.
-- [**RL-Env (GROW-R)**](https://github.com/GammaKing2000/RL-Env)  
-  Custom Gymnasium environment for autonomous plant-care exploration and control.
-- [**PerceptronController**](https://github.com/GammaKing2000/PerceptronController)  
-  Robotics controller + hardware/software setup for real-world integration.
+- [**LegalRag**](https://github.com/GammaKing2000/LegalRag) — Dual AI workflow for legal-document summarization and a calendar assistant.
+- [**RL-Env (GROW-R)**](https://github.com/GammaKing2000/RL-Env) — Custom Gymnasium environment for autonomous plant-care exploration and control.
+- [**PerceptronController**](https://github.com/GammaKing2000/PerceptronController) — Robotics controller + hardware/software setup for real-world integration.
 
 ## 🧰 Tech Stack
 **Languages:** Python, TypeScript, Java, C/C++, Swift  
