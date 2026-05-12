@@ -1,23 +1,39 @@
-# Hi, I'm Adit 👋
+<h1 align="center">Hi, I'm Adit 👋</h1>
+<p align="center">
+  Building AI systems, robotics interfaces, and full-stack products.
+</p>
 
-I build software across **AI/RAG systems**, **robotics dashboards**, and **full-stack web apps**.
+> Focus: **AI + RAG**, **Robotics**, and **Product Engineering**
+
+## 🚀 What I'm working on (latest)
+- [**backup-backend**](https://github.com/GammaKing2000/backup-backend) — Orbit backend in Next.js for current demo workflows.
+- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — local-first advanced vector RAG pipeline for large codebases.
+- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — mission control dashboard with live rover telemetry.
 
 ## 🌟 Featured Projects
-- [**LegalRag**](https://github.com/GammaKing2000/LegalRag) — a legal-document workflow with summarization, factual checks, and assistant capabilities.
-- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — a hybrid codebase RAG pipeline focused on retrieval quality and context handling.
-- [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — mission-control style telemetry dashboard for rover-like systems.
-- [**RL-Env**](https://github.com/GammaKing2000/RL-Env) — custom reinforcement-learning environment for autonomous plant-care behavior.
+- [**LegalRag**](https://github.com/GammaKing2000/LegalRag)  
+  Dual AI workflow for legal-document summarization + calendar assistant.
+- [**RL-Env (GROW-R)**](https://github.com/GammaKing2000/RL-Env)  
+  Custom Gymnasium environment for autonomous plant-care exploration and control.
+- [**PerceptronController**](https://github.com/GammaKing2000/PerceptronController)  
+  Robotics controller + hardware/software setup for real-world integration.
 
-## 🛠️ Tech I Use
-- **Languages:** Python, TypeScript, Java, C/C++
-- **AI/ML:** RAG pipelines, embeddings/vector workflows, computer vision, reinforcement learning
-- **Frontend:** React, Vite, Tailwind CSS
-- **Backend/Tools:** API integrations, SQLite, ROS-style telemetry/control workflows
+## 🧰 Tech Stack
+**Languages:** Python, TypeScript, Java, C/C++, Swift  
+**AI/ML:** RAG, vector retrieval, embeddings, reinforcement learning, computer vision  
+**Frontend:** React, Vite, Tailwind CSS, shadcn/ui  
+**Backend & Infra:** Next.js, API workflows, SQLite, local/offline-first tooling
 
-## 📌 Other Repositories
-- [PerceptronController](https://github.com/GammaKing2000/PerceptronController)
-- [OpenCV](https://github.com/GammaKing2000/OpenCV)
-- [Object-Detection](https://github.com/GammaKing2000/Object-Detection)
-- [Fantasy-Cricket-project](https://github.com/GammaKing2000/Fantasy-Cricket-project)
+## 🎯 Current Direction
+- Shipping practical AI features that are usable in real apps.
+- Improving context quality and retrieval reliability in RAG systems.
+- Building real-time telemetry and control experiences for robotics projects.
 
-Thanks for stopping by!
+## 📌 More Projects
+[OpenCV](https://github.com/GammaKing2000/OpenCV) •
+[Object-Detection](https://github.com/GammaKing2000/Object-Detection) •
+[Fantasy-Cricket-project](https://github.com/GammaKing2000/Fantasy-Cricket-project) •
+[Sentiment-Analysis-ML-Project](https://github.com/GammaKing2000/Sentiment-Analysis-ML-Project)
+
+## 📫 Connect
+- GitHub: [@GammaKing2000](https://github.com/GammaKing2000)
