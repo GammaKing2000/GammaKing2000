@@ -6,8 +6,8 @@
 > Focus: **AI + RAG**, **Robotics**, and **Product Engineering**
 
 ## 🚀 What I'm working on (latest)
-- [**backup-backend**](https://github.com/GammaKing2000/backup-backend) — Next.js backend for a social/workflow demo app.
-- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — local-first advanced vector RAG pipeline for large codebases.
+- [**backup-backend**](https://github.com/GammaKing2000/backup-backend) — Next.js backend for a social publishing demo with approval workflows.
+- [**Code-Papa**](https://github.com/GammaKing2000/Code-Papa) — Local-first advanced vector RAG pipeline for large codebases.
 - [**lunar-command-center**](https://github.com/GammaKing2000/lunar-command-center) — mission control dashboard with live rover telemetry.
 
 ## 🌟 Featured Projects
