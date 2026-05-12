@@ -1,13 +1,15 @@
-<h1 align="center">Hi, I'm Adit</h1>
+﻿<h1 align="center">Hi, I'm Adit</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;RAG+%2B+Machine-Learning+%2B+Full-Stack;Building+practical+developer+and+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=AI+Systems+Builder;RAG+%2B+Machine+Learning+%2B+Full-Stack;Robotics+Telemetry+%2B+Control+Interfaces;Building+practical+developer+tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaKing2000&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
+  <a href="https://github.com/GammaKing2000?tab=repositories"><strong>46 public repositories</strong></a> | 
+  <a href="https://github.com/GammaKing2000/Code-Papa">Code RAG</a> | 
+  <a href="https://github.com/GammaKing2000/lunar-command-center">Robotics UI</a> | 
+  <a href="https://github.com/GammaKing2000/RL-Env">Reinforcement Learning</a>
 </p>
-
 
 ---
 
@@ -39,13 +41,16 @@ My work is currently focused on:
 
 ### Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,swift,cpp,java,tailwind,nodejs,sqlite,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-1f6feb?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20Retrieval-0f766e?style=for-the-badge" alt="Vector Retrieval" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-7c3aed?style=for-the-badge" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-b45309?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Robotics-334155?style=for-the-badge" alt="Robotics" />
 </p>
 
 **AI/ML:** RAG, embeddings, vector retrieval, reinforcement learning, computer vision  
@@ -55,21 +60,24 @@ My work is currently focused on:
 
 ---
 
-### GitHub Stats
+### Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GammaKing2000&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GammaKing2000&layout=compact&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GammaKing2000/GammaKing2000/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GammaKing2000/GammaKing2000/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/GammaKing2000/GammaKing2000/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 ### More Projects
 
-[OpenCV](https://github.com/GammaKing2000/OpenCV) ·
-[Object-Detection](https://github.com/GammaKing2000/Object-Detection) ·
-[Sentiment-Analysis-ML-Project](https://github.com/GammaKing2000/Sentiment-Analysis-ML-Project) ·
-[DisasterAlert](https://github.com/GammaKing2000/DisasterAlert) ·
+[OpenCV](https://github.com/GammaKing2000/OpenCV) |
+[Object-Detection](https://github.com/GammaKing2000/Object-Detection) |
+[Sentiment-Analysis-ML-Project](https://github.com/GammaKing2000/Sentiment-Analysis-ML-Project) |
+[DisasterAlert](https://github.com/GammaKing2000/DisasterAlert) |
 [penguinApp](https://github.com/GammaKing2000/penguinApp)
 
 ---
@@ -77,3 +85,4 @@ My work is currently focused on:
 <p align="center">
   Building useful AI and robotics systems, one repo at a time.
 </p>
+
